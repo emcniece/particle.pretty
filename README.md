@@ -7,10 +7,11 @@ KiCad footprints for Particle hardware (e.g. Core, Photon, Electron).
 - [Core](https://docs.particle.io/datasheets/core-datasheet/)
 - [Photon](https://docs.particle.io/datasheets/photon-datasheet/)
 - [Electron](https://docs.particle.io/datasheets/electron-datasheet/)
+- [P1](https://docs.particle.io/datasheets/p1-datasheet/)
 
 ## Missing Footprints
 
-- [P1](https://docs.particle.io/datasheets/p1-datasheet/)
+- [P0](https://docs.particle.io/datasheets/p1-datasheet/)
 
 Feel free to contribute additional footprints!
 
