@@ -1,4 +1,4 @@
-(module "Particle P1 WM-N-BM-14" (layer F.Cu) (tedit 57BB74DB)
+(module p1 (layer F.Cu) (tedit 57BB74DB)
   (fp_text reference U** (at 7.4 -10 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

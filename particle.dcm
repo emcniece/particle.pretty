@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Core
+D Core
+K particle, spark, core
+$ENDCMP
+#
+$CMP Electron
+D Electron
+K particle, spark, electron
+$ENDCMP
+#
+$CMP P1
+D Particle P1
+K particle, p1, WM-N-BM-14
+$ENDCMP
+#
+$CMP Photon
+D Photon
+K particle, photon
+$ENDCMP
+#
+#End Doc Library
